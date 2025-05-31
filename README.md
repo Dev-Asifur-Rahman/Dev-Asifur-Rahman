@@ -1,7 +1,7 @@
 <img src="images/github-header-image.png" alt="Asifur Rahman" style="width: 100%; height: auto;" />
 
 <!-- detailed section  -->
-<h2 align="left">About me</h2>
+<h1 align="left">About me</h1>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<h2 align="left">Skill</h2>
+<h1 align="left">Skill</h1>
 
 ###
 
@@ -37,6 +37,10 @@
 
 ###
 
+<h1 align="left">Status</h1>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dev-Asifur-Rahman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-Asifur-Rahman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -44,7 +48,7 @@
 
 ###
 
-<h2 align="left">Contact</h2>
+<h1 align="left">Contact</h1>
 
 ###
 

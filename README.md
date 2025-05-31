@@ -1,1 +1,1 @@
-![Asifur Rahman](img/github-header-image.png)
+![Asifur Rahman](images/github-header-image.png)

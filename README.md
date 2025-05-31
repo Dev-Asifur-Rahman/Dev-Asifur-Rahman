@@ -9,6 +9,35 @@
 
 ###
 
+<h1 align="left">Projects</h1>
+
+###
+
+<p align="left">
+<strong>CampAid | Volunteer Management Platform</strong><br/>
+Live | GitHub - Client | GitHub - Server <br/>
+Overview: CampAID is an online platform for exploring and registering health, educational, and awareness camps, offering a seamless experience for organizers and participants.<br/>
+Key Features:<br/>
+- Role-Based Dashboard: Separate views for organizers and participants<br/>
+- Event Management: Create, edit, and monitor volunteer events<br/>
+- Stripe Payments: Secure online payment for event registration<br/>
+Tech: React.js | Node.js | Express.js | MongoDB | Firebase Auth | Stripe | React Query | Tailwind CSS | DaisyUI | Swiper | Lottie
+</p>
+
+<p align="left">
+<strong>Lithub Library | Online Book Library</strong><br/>
+Live | GitHub - Client | GitHub - Server<br/>
+Overview: LitHub is a modern and responsive library management website that allows users to browse, read, and review books. It's designed to provide a user-friendly digital library experience.<br/>
+Key Features:<br/>
+- Category Listing: Displays books organized by genre<br/>
+- JWT Security: Secured access for users and admins<br/>
+- Toast Alerts: Provides real-time feedback for actions<br/>
+- Firebase Auth: Secures user and admin login with real-time authentication<br/>
+Tech: MongoDB | Express.js | React.js | Node.js | Firebase Auth | Tailwind | DaisyUI | Swiper | Lottie | Day.js
+</p>
+
+###
+
 <h1 align="left">Skill</h1>
 
 ###

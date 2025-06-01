@@ -15,7 +15,7 @@
 
 <p align="left">
 <strong>CampAid | Volunteer Management Platform</strong><br/>
-<a href="" target="_blank">Live</a> | <a href="" target="_blank">GitHub - Client</a> | <a href="" target="_blank">GitHub - Server</a> <br/>
+<a href="https://camp-aid.netlify.app/" target="_blank">Live</a> | <a href="https://github.com/Dev-Asifur-Rahman/re-assignment-twelfth-client" target="_blank">GitHub - Client</a> | <a href="https://github.com/Dev-Asifur-Rahman/re-assignment-twelfth-server" target="_blank">GitHub - Server</a> <br/>
 Overview: CampAID is an online platform for exploring and registering health, educational, and awareness camps, offering a seamless experience for organizers and participants.<br/>
 Key Features:<br/>
 - Role-Based Dashboard: Separate views for organizers and participants<br/>
@@ -26,7 +26,7 @@ Tech: React.js | Node.js | Express.js | MongoDB | Firebase Auth | Stripe | React
 
 <p align="left">
 <strong>Lithub Library | Online Book Library</strong><br/>
-<a href="" target="_blank">Live</a>  | <a href="" target="_blank">GitHub - Client</a> | <a href="" target="_blank">GitHub - Server</a><br/>
+<a href="https://lithub-library.netlify.app/" target="_blank">Live</a>  | <a href="https://github.com/Dev-Asifur-Rahman/re-assignment-eleventh-client" target="_blank">GitHub - Client</a> | <a href="https://github.com/Dev-Asifur-Rahman/re-assignment-eleventh-server" target="_blank">GitHub - Server</a><br/>
 Overview: LitHub is a modern and responsive library management website that allows users to browse, read, and review books. It's designed to provide a user-friendly digital library experience.<br/>
 Key Features:<br/>
 - Category Listing: Displays books organized by genre<br/>

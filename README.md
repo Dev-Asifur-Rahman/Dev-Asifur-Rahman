@@ -14,6 +14,18 @@
 ###
 
 <p align="left">
+<strong>NextLearn | AI-Powered SSR Learning Platform</strong><br/>
+<a href="" target="_blank">Live</a> | <a href="" target="_blank">GitHub - Client</a> | <a href="" target="_blank">GitHub - Server</a> <br/>
+Overview: NextLearn is an AI-powered learning platform offering personalized study tools, AI-generated quizzes, and structured courses to enhance student productivity and growth.<br/>
+Key Features:<br/>
+- Role-Based Dashboard: Separate dashboards for students, instructors, and admins<br/>
+- AI Quiz Generator: Generate topic-based quizzes instantly using AI<br/>
+- Study Planner: Create and manage personalized study schedules<br/>
+- Course Management: Instructors can create and manage courses with ease<br/>
+Tech: Next.js | React.js | Node.js | MongoDB | Tailwind CSS | DaisyUI | React Query | Axios | NextAuth | DeepSeek | Swiper | Lottie
+</p>
+
+<p align="left">
 <strong>CampAid | Volunteer Management Platform</strong><br/>
 <a href="" target="_blank">Live</a> | <a href="" target="_blank">GitHub - Client</a> | <a href="" target="_blank">GitHub - Server</a> <br/>
 Overview: CampAID is an online platform for exploring and registering health, educational, and awareness camps, offering a seamless experience for organizers and participants.<br/>

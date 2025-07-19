@@ -15,7 +15,7 @@
 
 <p align="left">
 <strong>NextLearn | AI-Powered SSR Learning Platform</strong><br/>
-<a href="" target="_blank">Live</a> | <a href="" target="_blank">GitHub - Client</a> | <a href="" target="_blank">GitHub - Server</a> <br/>
+<a href="https://project-next-learn.vercel.app" target="_blank">Live</a> | <a href="https://github.com/Dev-Asifur-Rahman/next-learn" target="_blank">GitHub</a> <br/>
 Overview: NextLearn is an AI-powered learning platform offering personalized study tools, AI-generated quizzes, and structured courses to enhance student productivity and growth.<br/>
 Key Features:<br/>
 - Role-Based Dashboard: Separate dashboards for students, instructors, and admins<br/>
